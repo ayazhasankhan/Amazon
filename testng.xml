@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon" verbose="1">
+
+ <test name="TC_001">
+    <classes>
+        <class name="testcases.TC_001_RegisterAccount"></class>
+          
+    </classes>
+</test>
+
+ <test name="TC_002">
+    <classes>
+        <class name="testcases.TC_002_ViewBestSellingProducts"></class>
+          
+    </classes>
+    </test>
+     <test name="TC_003">
+    <classes>
+        <class name="testcases.TC_003_ProductSearch"></class>
+          
+    </classes>
+</test>
+</suite>

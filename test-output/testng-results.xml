@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-26T00:46:55 IST" name="Amazon" finished-at="2023-04-26T00:48:55 IST" duration-ms="119624">
+    <groups>
+    </groups>
+    <test started-at="2023-04-26T00:46:55 IST" name="TC_001" finished-at="2023-04-26T00:47:34 IST" duration-ms="38080">
+      <class name="testcases.TC_001_RegisterAccount">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC_001_RegisterAccount@96def03]" started-at="2023-04-26T00:46:55 IST" name="initialize" finished-at="2023-04-26T00:47:17 IST" duration-ms="21195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="TC_001_RegisterAccount()[pri:0, instance:testcases.TC_001_RegisterAccount@96def03]" started-at="2023-04-26T00:47:17 IST" name="TC_001_RegisterAccount" finished-at="2023-04-26T00:47:34 IST" duration-ms="16863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_RegisterAccount -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:testcases.TC_001_RegisterAccount@96def03]" started-at="2023-04-26T00:47:34 IST" name="TeardownTest" finished-at="2023-04-26T00:47:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.TC_001_RegisterAccount -->
+    </test> <!-- TC_001 -->
+    <test started-at="2023-04-26T00:47:34 IST" name="TC_002" finished-at="2023-04-26T00:48:09 IST" duration-ms="35011">
+      <class name="testcases.TC_002_ViewBestSellingProducts">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC_002_ViewBestSellingProducts@70e8f8e]" started-at="2023-04-26T00:47:34 IST" name="initialize" finished-at="2023-04-26T00:47:54 IST" duration-ms="20456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="TC_002_ViewBestSellingProducts()[pri:0, instance:testcases.TC_002_ViewBestSellingProducts@70e8f8e]" started-at="2023-04-26T00:47:54 IST" name="TC_002_ViewBestSellingProducts" finished-at="2023-04-26T00:48:09 IST" duration-ms="14539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_ViewBestSellingProducts -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:testcases.TC_002_ViewBestSellingProducts@70e8f8e]" started-at="2023-04-26T00:48:09 IST" name="TeardownTest" finished-at="2023-04-26T00:48:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.TC_002_ViewBestSellingProducts -->
+    </test> <!-- TC_002 -->
+    <test started-at="2023-04-26T00:48:09 IST" name="TC_003" finished-at="2023-04-26T00:48:55 IST" duration-ms="46391">
+      <class name="testcases.TC_003_ProductSearch">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC_003_ProductSearch@e056f20]" started-at="2023-04-26T00:48:09 IST" name="initialize" finished-at="2023-04-26T00:48:29 IST" duration-ms="20492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="TC_003_ProductSearch()[pri:0, instance:testcases.TC_003_ProductSearch@e056f20]" started-at="2023-04-26T00:48:29 IST" name="TC_003_ProductSearch" finished-at="2023-04-26T00:48:55 IST" duration-ms="25891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_ProductSearch -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:testcases.TC_003_ProductSearch@e056f20]" started-at="2023-04-26T00:48:55 IST" name="TeardownTest" finished-at="2023-04-26T00:48:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.TC_003_ProductSearch -->
+    </test> <!-- TC_003 -->
+  </suite> <!-- Amazon -->
+</testng-results>
